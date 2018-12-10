@@ -1,0 +1,86 @@
+/* Designed by brendon roberts 2018
+
+color codes:
+dark green= #57a95c
+grey= #a9a9a9
+light green= #4fac3d
+dark grey = #626262
+*/
+
+img{
+  width: 700px;
+  height: 700px;
+}
+.navbarpic{
+  height: 150px;
+  width: 250px;
+  box-shadow: 2px 2px 8px  black;
+  background-color: white;
+}
+body{
+  background-color:  #626262;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+.navbarcontact{
+  border: 2px solid black;
+  background-color: #57a95c;
+  box-shadow: 2px 2px 2px black;
+font-size: 15px;
+}
+.aboutagselect{
+text-align: center;
+font-size: 1.75em;
+background-color:  #4fac3d;
+box-shadow: 2px 2px 2px black;
+border: 2px solid black;
+border-radius: 5px;}
+
+.navbar-color {
+  border: 4px solid black;
+}
+
+.carousel1{
+  border: 4px solid black;
+  border-radius: 6px;
+}
+
+.navbar-col-color{
+  color: white;
+}
+a{
+  color: white !important;
+}
+.page-header{
+  text-align: center;
+  font-style: italic;
+font-size: 3em;
+background-color: #a9a9a9;
+border: 4px solid black;
+border-top: 2px;
+border-radius: 5px;
+text-decoration: underline #4fac3d;
+}
+.card-group{
+  border: 2px solid black;
+  height: 450px;
+  border-bottom: none;
+}
+
+
+.form1{
+  background-color: #4fac3d;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.footer{
+  background-color: #a9a9a9;
+  text-align: center;
+  width: 90%;
+  border: 2px solid black;
+}
+.card img{
+width:365px;
+height: 400px;
+}
